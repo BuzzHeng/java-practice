@@ -1,4 +1,4 @@
-// File: RegexPractice.java
+package regex;// File: RegexPractice.java
 // How to use:
 // 1) Create a new project (no Maven needed).
 // 2) New Java Class -> paste this entire file content.
